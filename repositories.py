@@ -51,7 +51,7 @@ GROUP_REPOS = [
     [
         "group h",
         "<Name>",
-        ["https://github.com/<organization|user>/<repository_name>"],
+        ["https://github.com/Eagles-DevOps/MiniTwit.git"],
         "http(s)://<TBA>/<FrontEndURL>",
         "http(s)://<TBA>/<APIURL>",
     ],
